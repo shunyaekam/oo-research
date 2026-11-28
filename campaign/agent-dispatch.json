@@ -1,6 +1,5 @@
 {
-  "lane": "rotation",
-  "problem_id": "refined-bmv",
-  "stage": "math_review",
-  "at": "2026-11-28T07:25:59+00:00"
+  "lane": "scout",
+  "source": "https://openquantumproblems.com/p/A27",
+  "at": "2026-11-28T17:09:51+00:00"
 }

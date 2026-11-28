@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "run_id": "cbd85f692e7e4c0391d0884d8d73f9c4",
+  "problem_id": "oqp:A27",
+  "stage": "scout",
+  "method": "source-screen",
+  "model": "gpt-6.2-sol",
+  "contract_hash": null,
+  "revision": "0800656a8808164aeb0678d83590279ebaa3c1d3",
+  "started_at": "2026-11-28T17:08:44.965+00:00",
+  "elapsed_seconds": 66.592328,
+  "status": "completed",
+  "outcome": "shortlist",
+  "evidence": "campaign/scouting/2316c7d95b034a0db5345989.json",
+  "usage": {
+    "input_tokens": 233142,
+    "cached_input_tokens": 184960,
+    "output_tokens": 2077
+  },
+  "usage_complete": true,
+  "hosted_invoked": true,
+  "reasoning_effort": "low",
+  "hosted_elapsed_seconds": 65.763216
+}
